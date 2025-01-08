@@ -12,7 +12,7 @@ This project focuses on predicting the prices of used cars using machine learnin
 3. [Results and Insights](#results-and-insights)
 4. [Models Used](#models-used)
 5. [SHAP Interpretability](#shap-interpretability)
-6. [Installation and Usage](#installation-and-usage)
+6. [Installation](#installation)
 7. [Conclusion](#conclusion)
 8. [References](#references)
 
