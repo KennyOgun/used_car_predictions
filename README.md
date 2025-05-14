@@ -1,6 +1,8 @@
-# Used Car Sales Prediction using Machine Learning
 
-![image](https://github.com/user-attachments/assets/483db985-29c5-4a1f-99a1-7404700d8a1a)
+# Explainable AI for Used Car Price Forecasting and Market Intelligence
+
+![used_car2](https://github.com/user-attachments/assets/04e3ad28-4152-4b54-bb95-9f5594de27a0)
+
 
 
 ## Overview
