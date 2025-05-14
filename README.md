@@ -1,5 +1,8 @@
 # Used Car Sales Prediction using Machine Learning
 
+![image](https://github.com/user-attachments/assets/483db985-29c5-4a1f-99a1-7404700d8a1a)
+
+
 ## Overview
 
 This project focuses on predicting the prices of used cars using machine learning techniques. By leveraging advanced feature engineering, dimensionality reduction, and multiple machine learning models, the goal is to create a reliable prediction system to help buyers and sellers in the used car market.
